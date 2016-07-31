@@ -1,0 +1,57 @@
+@charset "utf-8";
+.col1 {
+	background-color: hsla(359,100%,76%,1.00);
+}
+.col2 {
+	background-color: hsla(251,40%,81%,1.00);
+}
+td+td+td+td {
+	text-align: center;
+}
+table {
+	margin: auto;
+	border: solid;
+}
+th, td {
+	border: solid;
+}
+.col1 {
+}
+caption {
+	font-style: italic;
+	font-weight: bold;
+	padding-bottom: 1em;
+}
+body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	background-image: url(dye.jpg);
+}
+.wrapper {
+	margin: 20px auto 20px auto;
+	background-color: white;
+	padding: 5em;
+	width: 75%;
+}
+h1 {
+	text-align: center;
+	padding-bottom: 2em;
+	background-color: hsla(0,0%,77%,1.00);
+	padding-top: 2em;
+}
+.wrapper body {
+}
+
+
+
+
+
+
+
+
+
+.col3 {
+	background-color: hsla(177,84%,65%,1.00);
+}
+.col4 {
+	background-color: hsla(65,72%,66%,1.00);
+}

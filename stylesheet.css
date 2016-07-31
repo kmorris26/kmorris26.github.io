@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contentwrapper {
+	background-color: #FFF;
+	border: solid hsla(36,43%,41%,1.00);
+	padding: 20px 10px 20px 10px;
+	width: 800px;
+}
+table {
+	margin: 0 auto 0 auto;
+	width: 70%;
+	border: thick dotted hsla(26,45%,43%,1.00);
+}
+
+body {
+	background-image: url(chocolate.jpg);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 20px auto 20px auto;
+	width: 70%;
+}
+td {
+	text-align: center;
+}
+
+
+.menu {
+	background-color: hsla(40,76%,79%,1.00);
+}
+th[scope="row"] {
+	text-align: left;
+	font-weight: normal;
+}
+h1+h2 {
+	margin-top: -1em;
+}
+
+
+td, th {
+	border: thin solid hsla(26,45%,43%,1.00);
+}
